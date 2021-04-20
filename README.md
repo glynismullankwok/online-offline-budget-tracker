@@ -1,5 +1,7 @@
 # online-offline-budget-tracker
 
+The purpose of this project is to add functionality to this budget tracker to allow for offline useage.
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
